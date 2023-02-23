@@ -1,8 +1,9 @@
-## NAME
+# Name
 Created by Vinsensius Ade Winata
-## SOURCE
-Sources : [Dicoding](https://www.dicoding.com/academies/47)\
-## FINISHED
+# Source
+Sources : [Dicoding](https://www.dicoding.com/academies/47)
+# Finisher
 Completed Date : 1/3/2022
 
 Gameplay Review
+https://github.com/VinsenAde/GameUnity-2022/blob/main/PongUnity/Assets/Images/Pong.png
