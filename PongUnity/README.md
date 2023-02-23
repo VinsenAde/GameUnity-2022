@@ -1,5 +1,8 @@
+## NAME
 Created by Vinsensius Ade Winata
-Sources : [Dicoding](https://www.dicoding.com/academies/47)
+## SOURCE
+Sources : [Dicoding](https://www.dicoding.com/academies/47)\
+## FINISHED
 Completed Date : 1/3/2022
 
 Gameplay Review
